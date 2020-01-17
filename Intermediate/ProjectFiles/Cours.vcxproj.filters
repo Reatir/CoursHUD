@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Cours.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{73CAF73C-DA71-426A-AD02-1A148BC5D35D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Cours.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\CoursEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{0D1E1C5E-F376-42B8-898A-8C4CAD3D59AD}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Cours">
+      <UniqueIdentifier>{AB615B7E-E935-4611-B9BB-F5A05FFAC126}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Cours\Cours.Build.cs">
+      <Filter>Source\Cours</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Cours\Cours.cpp">
+      <Filter>Source\Cours</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Cours\Cours.h">
+      <Filter>Source\Cours</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Cours\CoursCharacter.cpp">
+      <Filter>Source\Cours</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Cours\CoursCharacter.h">
+      <Filter>Source\Cours</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Cours\CoursGameMode.cpp">
+      <Filter>Source\Cours</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Cours\CoursGameMode.h">
+      <Filter>Source\Cours</Filter>
+    </ClInclude>
+    <Filter Include="Source\Cours\UI">
+      <UniqueIdentifier>{31C31E09-CDD1-40E0-BA4A-A54CAFDEBCB3}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Cours\UI\Combo.cpp">
+      <Filter>Source\Cours\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Cours\UI\Combo.h">
+      <Filter>Source\Cours\UI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Cours\UI\InGameHUD.cpp">
+      <Filter>Source\Cours\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Cours\UI\InGameHUD.h">
+      <Filter>Source\Cours\UI</Filter>
+    </ClInclude>
+    <None Include="cpp.hint" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\Cours\UI\ChargePunch.h">
+      <Filter>Source\Cours\UI</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\Cours\UI\ChargePunch.cpp">
+      <Filter>Source\Cours\UI</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

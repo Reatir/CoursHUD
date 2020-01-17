@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Prog\\Unreal\\HUDCours\\Cours\\Source\\Cours\\Cours.Build.cs",
+		"D:\\Prog\\Unreal\\HUDCours\\Cours\\Source\\Cours.Target.cs",
+		"D:\\Prog\\Unreal\\HUDCours\\Cours\\Source\\CoursEditor.Target.cs"
+	],
+	"EngineVersion": "4.24.1"
+}

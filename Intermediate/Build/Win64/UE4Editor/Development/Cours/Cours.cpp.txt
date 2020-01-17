@@ -1,0 +1,2 @@
+D:\Prog\Unreal\HUDCours\Cours\Intermediate\Build\Win64\UE4Editor\Development\Cours\Definitions.Cours.h
+D:\Prog\Unreal\HUDCours\Cours\Source\Cours\Cours.h

@@ -1,0 +1,13 @@
+D:\Prog\Unreal\HUDCours\Cours\Intermediate\Build\Win64\UE4Editor\Development\Cours\Definitions.Cours.h
+D:\Prog\Unreal\HUDCours\Cours\Source\Cours\CoursGameMode.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+D:\Prog\Unreal\HUDCours\Cours\Intermediate\Build\Win64\UE4Editor\Inc\Cours\CoursGameMode.generated.h
+D:\Prog\Unreal\HUDCours\Cours\Source\Cours\CoursCharacter.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+D:\Prog\Unreal\HUDCours\Cours\Intermediate\Build\Win64\UE4Editor\Inc\Cours\CoursCharacter.generated.h

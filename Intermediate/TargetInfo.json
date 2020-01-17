@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Cours",
+			"Path": "D:\\Prog\\Unreal\\HUDCours\\Cours\\Source\\Cours.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CoursEditor",
+			"Path": "D:\\Prog\\Unreal\\HUDCours\\Cours\\Source\\CoursEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
